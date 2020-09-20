@@ -27,10 +27,12 @@ li {
 }
 .info > span {
   margin-bottom: 20px;
+  font-size: 24px;
 }
 
 .cv-items {
   list-style: none;
+  font-size: 18px;
 }
 
 .cv-title {

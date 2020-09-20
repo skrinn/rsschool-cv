@@ -1,0 +1,41 @@
+.wrapper {
+  width: 1024px;
+  margin: 0 auto;
+}
+html {
+  font-family: "Roboto", sans-serif;
+}
+
+h3,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  display: flex;
+}
+
+.image {
+  margin-right: 20px;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+}
+.info > span {
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.cv-items {
+  list-style: none;
+  font-size: 18px;
+}
+
+.cv-title {
+  margin-bottom: 10px;
+  font-size: 24px;
+}
